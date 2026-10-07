@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anvarolimov744-droid.github.io/DASTURLASH/sitemap.xml
